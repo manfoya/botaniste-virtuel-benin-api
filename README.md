@@ -54,6 +54,6 @@ Nous développons un premier modèle capable de reconnaître 5 espèces embléma
     pip install -r requirements.txt
     ```
 
-## 🤝 Contribution
+## Contribution
 
 Ce projet est ouvert et collaboratif. N'hésitez pas à ouvrir une *issue* pour discuter de nouvelles fonctionnalités ou proposer des améliorations.
