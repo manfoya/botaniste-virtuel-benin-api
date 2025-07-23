@@ -1,0 +1,18 @@
+# --- Core ML & Data Processing ---
+tensorflow
+numpy
+pandas
+Pillow
+scikit-learn
+
+# --- API Framework ---
+fastapi
+uvicorn[standard]
+
+# --- Notebooks & Analysis ---
+jupyter
+matplotlib
+seaborn
+
+# --- Testing ---
+pytest
